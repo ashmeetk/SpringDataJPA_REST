@@ -1,4 +1,4 @@
-# SpringDataJPA_REST
+# SpringDataJPA_REST - This project is in working state.
 SpringDataJPA project: Perform CRUD operations using REST on Product table in MySQL database.
 
 
@@ -21,4 +21,4 @@ How Product Json looks like:
 "price": 300
 }
 
-This project is in working state.
+
